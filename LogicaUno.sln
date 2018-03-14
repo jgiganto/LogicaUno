@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaUno", "LogicaUno\LogicaUno.csproj", "{A1AB138E-6523-457E-8DD3-EE76472ACF07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostServiceUno", "HostServiceUno\HostServiceUno.csproj", "{33E8F20A-845F-4A93-BE4A-575A38666DBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A1AB138E-6523-457E-8DD3-EE76472ACF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1AB138E-6523-457E-8DD3-EE76472ACF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1AB138E-6523-457E-8DD3-EE76472ACF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E8F20A-845F-4A93-BE4A-575A38666DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E8F20A-845F-4A93-BE4A-575A38666DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E8F20A-845F-4A93-BE4A-575A38666DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E8F20A-845F-4A93-BE4A-575A38666DBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace LogicaUno
 {
-    public class Class1
+    public class ServicioContratoUno : IContratoUno
     {
+        public int GetNumeroDoble(int num)
+        {
+            return num * 2;
+        }
     }
 }
